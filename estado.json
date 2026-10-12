@@ -6,11 +6,11 @@
   "configFrutas": {},
   "frutaInjetada": {
     "fruta": "Dragon",
-    "sea": "1",
-    "ilha": "Ilha Inicial da Marinha",
+    "sea": "3",
+    "ilha": "Tiki Outpost",
     "delay": 3,
     "sumirEm": 4,
-    "injetadoEm": 1791847586528
+    "injetadoEm": 1791847605352
   },
-  "atualizadoEm": 1791847586528
+  "atualizadoEm": 1791847605352
 }
