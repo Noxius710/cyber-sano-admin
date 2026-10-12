@@ -1,9 +1,9 @@
 {
   "congelado": false,
   "apiPausada": false,
-  "appFechado": true,
+  "appFechado": false,
   "mensagemGlobal": "",
-  "frutasBloqueadas": [],
-  "frutasForcadas": [],
-  "atualizadoEm": 1791843899241
+  "configFrutas": {},
+  "frutaInjetada": null,
+  "atualizadoEm": 0
 }
