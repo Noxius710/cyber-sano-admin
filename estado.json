@@ -6,11 +6,11 @@
   "configFrutas": {},
   "frutaInjetada": {
     "fruta": "Dragon",
-    "sea": "2",
-    "ilha": "Montanha Nevada",
+    "sea": "1",
+    "ilha": "Fortaleza de Magma",
     "delay": 3,
     "sumirEm": 3,
-    "injetadoEm": 1791845165402
+    "injetadoEm": 1791845190784
   },
-  "atualizadoEm": 1791845165402
+  "atualizadoEm": 1791845190784
 }
