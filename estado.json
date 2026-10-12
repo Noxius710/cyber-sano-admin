@@ -4,6 +4,13 @@
   "appFechado": false,
   "mensagemGlobal": "",
   "configFrutas": {},
-  "frutaInjetada": null,
-  "atualizadoEm": 0
+  "frutaInjetada": {
+    "fruta": "Dragon",
+    "sea": "2",
+    "ilha": "Montanha Nevada",
+    "delay": 3,
+    "sumirEm": 3,
+    "injetadoEm": 1791845165402
+  },
+  "atualizadoEm": 1791845165402
 }
