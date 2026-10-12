@@ -1,0 +1,9 @@
+{
+  "congelado": false,
+  "apiPausada": false,
+  "appFechado": false,
+  "mensagemGlobal": "",
+  "frutasBloqueadas": [],
+  "frutasForcadas": [],
+  "atualizadoEm": 0
+}
