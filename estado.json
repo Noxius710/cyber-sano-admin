@@ -3,7 +3,13 @@
   "apiPausada": false,
   "appFechado": false,
   "mensagemGlobal": "dw",
-  "configFrutas": {},
+  "configFrutas": {
+    "Dragon": {
+      "bloqueada": true,
+      "delay": 0,
+      "sumirEm": 0
+    }
+  },
   "frutaInjetada": {
     "fruta": "Dragon",
     "sea": "1",
@@ -12,5 +18,5 @@
     "sumirEm": 3,
     "injetadoEm": 1791845190784
   },
-  "atualizadoEm": 1791845196221
+  "atualizadoEm": 1791845219280
 }
