@@ -1,6 +1,6 @@
 {
-  "congelado": false,
-  "apiPausada": true,
+  "congelado": true,
+  "apiPausada": false,
   "appFechado": false,
   "mensagemGlobal": "PAUUUUU",
   "configFrutas": {},
@@ -14,5 +14,5 @@
     "jobIdReal": ".2hkhn1QRQ2ZcnLQ8k9G0W0v0L24Ynhk2nQ6G7BZB7WxWn36L6284pnQ9Y0R04jABLtc1chmF266557tBRhWhn7QWQ.",
     "players": 3
   },
-  "atualizadoEm": 1791849320253
+  "atualizadoEm": 1791849321908
 }
