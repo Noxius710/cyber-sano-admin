@@ -5,7 +5,7 @@
   "mensagemGlobal": "dw",
   "configFrutas": {
     "Dragon": {
-      "bloqueada": true,
+      "bloqueada": false,
       "delay": 0,
       "sumirEm": 0
     }
@@ -18,5 +18,5 @@
     "sumirEm": 3,
     "injetadoEm": 1791845190784
   },
-  "atualizadoEm": 1791845219280
+  "atualizadoEm": 1791845223940
 }
