@@ -2,21 +2,8 @@
   "congelado": false,
   "apiPausada": false,
   "appFechado": false,
-  "mensagemGlobal": "sfedwadawdwa",
-  "configFrutas": {
-    "Dragon": {
-      "bloqueada": false,
-      "delay": 0,
-      "sumirEm": 0
-    }
-  },
-  "frutaInjetada": {
-    "fruta": "Dragon",
-    "sea": "1",
-    "ilha": "Fortaleza de Magma",
-    "delay": 3,
-    "sumirEm": 3,
-    "injetadoEm": 1791845190784
-  },
-  "atualizadoEm": 1791845950564
+  "mensagemGlobal": "",
+  "configFrutas": {},
+  "frutaInjetada": null,
+  "atualizadoEm": 1791845955797
 }
