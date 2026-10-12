@@ -4,6 +4,13 @@
   "appFechado": false,
   "mensagemGlobal": "awdawdawdwa",
   "configFrutas": {},
-  "frutaInjetada": null,
-  "atualizadoEm": 1791847566849
+  "frutaInjetada": {
+    "fruta": "Dragon",
+    "sea": "1",
+    "ilha": "Ilha Inicial da Marinha",
+    "delay": 3,
+    "sumirEm": 4,
+    "injetadoEm": 1791847586528
+  },
+  "atualizadoEm": 1791847586528
 }
