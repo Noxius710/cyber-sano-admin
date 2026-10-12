@@ -4,15 +4,6 @@
   "appFechado": false,
   "mensagemGlobal": "PAUUUUU",
   "configFrutas": {},
-  "frutaInjetada": {
-    "fruta": "Dragon",
-    "sea": "3",
-    "ilha": "Hydra",
-    "delay": 2,
-    "sumirEm": 30,
-    "injetadoEm": 1791848161633,
-    "jobIdReal": ".7hnhnvQnQ2RcZLQYkF50W0cALk44nhBmnQ6G7vZB8282n36562045nQ6t0R0AB1jLmLvch0FBF6BpvtBh8mhn5mmQ.",
-    "players": 4
-  },
-  "atualizadoEm": 1791848161633
+  "frutaInjetada": null,
+  "atualizadoEm": 1791848179065
 }
