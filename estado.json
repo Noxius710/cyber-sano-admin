@@ -4,6 +4,15 @@
   "appFechado": true,
   "mensagemGlobal": "dawdaw",
   "configFrutas": {},
-  "frutaInjetada": null,
-  "atualizadoEm": 1791851426977
+  "frutaInjetada": {
+    "fruta": "Dragon",
+    "sea": "3",
+    "ilha": "Grande Árvore",
+    "delay": 0,
+    "sumirEm": 6,
+    "injetadoEm": 1791851436693,
+    "jobIdReal": ".mht8nBQxQ2L0pcQ99p50W0Y0Lm4vnhYmnQ6G7vZBxW2Wn36mF2G4hnQ9Y0R0BjRjLQLBchkFm66056tBWhQhnRQhm.",
+    "players": 6
+  },
+  "atualizadoEm": 1791851436693
 }
