@@ -5,14 +5,14 @@
   "mensagemGlobal": "wad",
   "configFrutas": {},
   "frutaInjetada": {
-    "fruta": "T-Rex",
+    "fruta": "Dragon",
     "sea": "3",
-    "ilha": "Castelo do Mar",
+    "ilha": "Tiki Outpost",
     "delay": 0,
-    "sumirEm": 0,
-    "injetadoEm": 1791853006972,
-    "jobIdReal": ".nhnhncmmQ2D0ZLQ29F50W070L8nvnhYmnQ6G759BZWZWn369F2p4n4QkY0R0YjQBLYc5LhmF6F6s5vtB4h38nvQtm.",
-    "players": 12
+    "sumirEm": 8,
+    "injetadoEm": 1791853027610,
+    "jobIdReal": ".h8khnRQWQ2ZcvLQhkQG0W00AL8nG4h1mnQ6G759Bp2h2n36mF2840nQtt0R09BRjLmLcLh1hs66npjtB7hmhn4Q2Q.",
+    "players": 8
   },
-  "atualizadoEm": 1791853006972
+  "atualizadoEm": 1791853027610
 }
