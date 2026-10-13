@@ -1,9 +1,9 @@
 {
   "congelado": false,
   "apiPausada": false,
-  "appFechado": false,
+  "appFechado": true,
   "mensagemGlobal": "dawdaw",
   "configFrutas": {},
   "frutaInjetada": null,
-  "atualizadoEm": 1791851425191
+  "atualizadoEm": 1791851426977
 }
