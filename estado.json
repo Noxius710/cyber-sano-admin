@@ -3,7 +3,13 @@
   "apiPausada": false,
   "appFechado": false,
   "mensagemGlobal": "pinto",
-  "configFrutas": {},
+  "configFrutas": {
+    "Dragon": {
+      "bloqueada": true,
+      "delay": 0,
+      "sumirEm": 0
+    }
+  },
   "frutaInjetada": {
     "fruta": "Dragon",
     "sea": "3",
@@ -14,5 +20,5 @@
     "jobIdReal": ".nhnhncmmQ2D0ZLQ29F50W070L8nvnhYmnQ6G759BZWZWn369F2p4n4QkY0R0YjQBLYc5LhmF6F6s5vtB4h38nvQtm.",
     "players": 12
   },
-  "atualizadoEm": 1791853613458
+  "atualizadoEm": 1791853630245
 }
