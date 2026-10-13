@@ -98,6 +98,11 @@
       "bloqueada": true,
       "delay": 0,
       "sumirEm": 0
+    },
+    "Lightning": {
+      "bloqueada": true,
+      "delay": 0,
+      "sumirEm": 0
     }
   },
   "frutaInjetada": {
@@ -110,5 +115,5 @@
     "jobIdReal": ".nhnhncmmQ2D0ZLQ29F50W070L8nvnhYmnQ6G759BZWZWn369F2p4n4QkY0R0YjQBLYc5LhmF6F6s5vtB4h38nvQtm.",
     "players": 12
   },
-  "atualizadoEm": 1791853682924
+  "atualizadoEm": 1791853685414
 }
