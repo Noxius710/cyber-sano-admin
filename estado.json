@@ -1,9 +1,9 @@
 {
-  "congelado": true,
+  "congelado": false,
   "apiPausada": false,
   "appFechado": false,
-  "mensagemGlobal": "jsegerjkgherojfhwklfehrgioewrhgioewhgoiewrhgoewrthgoirtejhiorejhiortehiorethioerthoierthgoerighretherothjerthgjoregjofdthbjrtihjrtiohjrthjrlhbfjghklrtjhortuhfthjriothjrthjrtiohjrtiohr",
+  "mensagemGlobal": "",
   "configFrutas": {},
   "frutaInjetada": null,
-  "atualizadoEm": 1791853582346
+  "atualizadoEm": 1791853584390
 }
