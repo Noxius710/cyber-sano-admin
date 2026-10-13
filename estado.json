@@ -4,6 +4,15 @@
   "appFechado": false,
   "mensagemGlobal": "daw",
   "configFrutas": {},
-  "frutaInjetada": null,
-  "atualizadoEm": 1791850531334
+  "frutaInjetada": {
+    "fruta": "Dragon",
+    "sea": "2",
+    "ilha": "Quente e Frio",
+    "delay": 0,
+    "sumirEm": 4,
+    "injetadoEm": 1791850540087,
+    "jobIdReal": ".h8mhnpm9Q2h07LQm9F50W060Lm4A4h02nQ6G74ZBmWxWn36562L45nQ2Y0R0jjQBLAL0LhmF966Rpc3Bh82hnGmxQ.",
+    "players": 10
+  },
+  "atualizadoEm": 1791850540087
 }
