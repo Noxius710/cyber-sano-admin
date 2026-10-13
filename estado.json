@@ -5,7 +5,7 @@
   "mensagemGlobal": "pinto",
   "configFrutas": {
     "Dragon": {
-      "bloqueada": false,
+      "bloqueada": true,
       "delay": 0,
       "sumirEm": 0
     },
@@ -90,5 +90,5 @@
     "jobIdReal": ".nhnhncmmQ2D0ZLQ29F50W070L8nvnhYmnQ6G759BZWZWn369F2p4n4QkY0R0YjQBLYc5LhmF6F6s5vtB4h38nvQtm.",
     "players": 12
   },
-  "atualizadoEm": 1791853658143
+  "atualizadoEm": 1791853659336
 }
