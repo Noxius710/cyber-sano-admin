@@ -125,7 +125,7 @@
       "sumirEm": 0
     },
     "Pain": {
-      "bloqueada": true,
+      "bloqueada": false,
       "delay": 0,
       "sumirEm": 0
     },
@@ -145,5 +145,5 @@
     "jobIdReal": ".ZhQhnjQnQ2h0nLQ6k650W0n0L6nvnhk2nQ6G7L9Bh2D2n36L6204n4QkY0R0BjGBL7LkLhGFjF6Yp53BF8Qhnpm9Q.",
     "players": 12
   },
-  "atualizadoEm": 1791853816854
+  "atualizadoEm": 1791853818527
 }
