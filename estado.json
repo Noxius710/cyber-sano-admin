@@ -1,7 +1,7 @@
 {
   "congelado": false,
   "apiPausada": false,
-  "appFechado": true,
+  "appFechado": false,
   "mensagemGlobal": "wad",
   "configFrutas": {},
   "frutaInjetada": {
