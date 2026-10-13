@@ -1,18 +1,18 @@
 {
-  "congelado": false,
+  "congelado": true,
   "apiPausada": false,
-  "appFechado": true,
+  "appFechado": false,
   "mensagemGlobal": "dawdaw",
   "configFrutas": {},
   "frutaInjetada": {
     "fruta": "Dragon",
     "sea": "3",
-    "ilha": "Grande Árvore",
+    "ilha": "Grande Ãrvore",
     "delay": 0,
     "sumirEm": 6,
     "injetadoEm": 1791851436693,
     "jobIdReal": ".mht8nBQxQ2L0pcQ99p50W0Y0Lm4vnhYmnQ6G7vZBxW2Wn36mF2G4hnQ9Y0R0BjRjLQLBchkFm66056tBWhQhnRQhm.",
     "players": 6
   },
-  "atualizadoEm": 1791851436693
+  "atualizadoEm": 1791852356890
 }
