@@ -1,18 +1,9 @@
 {
   "congelado": false,
   "apiPausada": false,
-  "appFechado": true,
-  "mensagemGlobal": "dw",
+  "appFechado": false,
+  "mensagemGlobal": "",
   "configFrutas": {},
-  "frutaInjetada": {
-    "fruta": "Dragon",
-    "sea": "3",
-    "ilha": "Ilha Submersa",
-    "delay": 0,
-    "sumirEm": 0,
-    "injetadoEm": 1791852651434,
-    "jobIdReal": ".38khnRQnQ22cDcQm9F50W070LYnnnhs2nQ6G709B7W9Wn36L62G474QDt0R00BLBLkL9Lh2F966s54tB2hD8npmZQ.",
-    "players": 8
-  },
-  "atualizadoEm": 1791852651434
+  "frutaInjetada": null,
+  "atualizadoEm": 1791852658438
 }
