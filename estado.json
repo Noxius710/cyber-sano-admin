@@ -138,12 +138,12 @@
   "frutaInjetada": {
     "fruta": "Dragon",
     "sea": "3",
-    "ilha": "Castelo do Mar",
-    "delay": 0,
-    "sumirEm": 30,
-    "injetadoEm": 1791853768716,
-    "jobIdReal": ".ZhQhnjQnQ2h0nLQ6k650W0n0L6nvnhk2nQ6G7L9Bh2D2n36L6204n4QkY0R0BjGBL7LkLhGFjF6Yp53BF8Qhnpm9Q.",
-    "players": 12
+    "ilha": "Hydra",
+    "delay": 5,
+    "sumirEm": 5,
+    "injetadoEm": 1792584283045,
+    "jobIdReal": ".WhD8nLmnQ2vc5cQZ9350W0v0Lk4nnhYmnQ6G709Bc2D2n36562048nQDt0R05BABLZLjchBhQ66G57tBZhh8n5mWQ.",
+    "players": 8
   },
-  "atualizadoEm": 1792584265828
+  "atualizadoEm": 1792584283045
 }
