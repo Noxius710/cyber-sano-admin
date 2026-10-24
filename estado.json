@@ -2,7 +2,7 @@
   "congelado": false,
   "apiPausada": false,
   "appFechado": false,
-  "mensagemGlobal": "pinto",
+  "mensagemGlobal": "",
   "configFrutas": {
     "Dragon": {
       "bloqueada": false,
@@ -145,5 +145,5 @@
     "jobIdReal": ".WhD8nLmnQ2vc5cQZ9350W0v0Lk4nnhYmnQ6G709Bc2D2n36562048nQDt0R05BABLZLjchBhQ66G57tBZhh8n5mWQ.",
     "players": 8
   },
-  "atualizadoEm": 1792584283045
+  "atualizadoEm": 1792877777560
 }
